@@ -1,0 +1,28 @@
+C:\Users\Biniam\AppData\Local\Temporary Projects\ClassSchedule\bin\Debug\ClassSchedule.exe
+C:\Users\Biniam\AppData\Local\Temporary Projects\ClassSchedule\bin\Debug\ClassSchedule.pdb
+C:\Users\Biniam\AppData\Local\Temporary Projects\ClassSchedule\bin\Debug\ClassSchedule.xml
+C:\Users\Biniam\AppData\Local\Temporary Projects\ClassSchedule\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Biniam\AppData\Local\Temporary Projects\ClassSchedule\obj\Debug\ClassSchedule.frmRoom.resources
+C:\Users\Biniam\AppData\Local\Temporary Projects\ClassSchedule\obj\Debug\ClassSchedule.mdiClSc.resources
+C:\Users\Biniam\AppData\Local\Temporary Projects\ClassSchedule\obj\Debug\ClassSchedule.Resources.resources
+C:\Users\Biniam\AppData\Local\Temporary Projects\ClassSchedule\obj\Debug\ClassSchedule.vbproj.GenerateResource.Cache
+C:\Users\Biniam\AppData\Local\Temporary Projects\ClassSchedule\obj\Debug\ClassSchedule.exe
+C:\Users\Biniam\AppData\Local\Temporary Projects\ClassSchedule\obj\Debug\ClassSchedule.xml
+C:\Users\Biniam\AppData\Local\Temporary Projects\ClassSchedule\obj\Debug\ClassSchedule.pdb
+C:\Users\Biniam\Documents\Visual Studio 2008\Projects\ClassSchedule\ClassSchedule\obj\Debug\ClassSchedule.exe
+C:\Users\Biniam\Documents\Visual Studio 2008\Projects\ClassSchedule\ClassSchedule\obj\Debug\ClassSchedule.xml
+C:\Users\Biniam\Documents\Visual Studio 2008\Projects\ClassSchedule\ClassSchedule\obj\Debug\ClassSchedule.pdb
+C:\Users\Biniam\Documents\Visual Studio 2008\Projects\ClassSchedule\ClassSchedule\bin\Debug\ClassSchedule.exe
+C:\Users\Biniam\Documents\Visual Studio 2008\Projects\ClassSchedule\ClassSchedule\bin\Debug\ClassSchedule.pdb
+C:\Users\Biniam\Documents\Visual Studio 2008\Projects\ClassSchedule\ClassSchedule\bin\Debug\ClassSchedule.xml
+C:\Users\Biniam\Documents\Visual Studio 2008\Projects\ClassSchedule\ClassSchedule\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Biniam\Documents\Visual Studio 2008\Projects\ClassSchedule\ClassSchedule\obj\Debug\ClassSchedule.frmCourse.resources
+C:\Users\Biniam\Documents\Visual Studio 2008\Projects\ClassSchedule\ClassSchedule\obj\Debug\ClassSchedule.frmStudents.resources
+C:\Users\Biniam\Documents\Visual Studio 2008\Projects\ClassSchedule\ClassSchedule\obj\Debug\ClassSchedule.frmRoom.resources
+C:\Users\Biniam\Documents\Visual Studio 2008\Projects\ClassSchedule\ClassSchedule\obj\Debug\ClassSchedule.mdiClSc.resources
+C:\Users\Biniam\Documents\Visual Studio 2008\Projects\ClassSchedule\ClassSchedule\obj\Debug\ClassSchedule.Resources.resources
+C:\Users\Biniam\Documents\Visual Studio 2008\Projects\ClassSchedule\ClassSchedule\obj\Debug\ClassSchedule.frmTeacher.resources
+C:\Users\Biniam\Documents\Visual Studio 2008\Projects\ClassSchedule\ClassSchedule\obj\Debug\ClassSchedule.vbproj.GenerateResource.Cache
+C:\Users\Biniam\Documents\Visual Studio 2010\Projects\ClassSchedule\ClassSchedule\obj\Debug\ClassSchedule.exe
+C:\Users\Biniam\Documents\Visual Studio 2010\Projects\ClassSchedule\ClassSchedule\obj\Debug\ClassSchedule.xml
+C:\Users\Biniam\Documents\Visual Studio 2010\Projects\ClassSchedule\ClassSchedule\obj\Debug\ClassSchedule.pdb
